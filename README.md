@@ -1,6 +1,6 @@
 # Escape-from-Bro-Jie-s-Hand
 逃出杰哥的手掌心（Lite.Ver） Escape from Bro Jie's Hand
-<br><strong>Important! Click here to watch the demo video: https://youtu.be/xCVhPmCDG4Y<strong>
+<br><strong>Important! Click here to watch the demo video: https://youtu.be/-Hyw1oQQFnA<strong>
 
 ## 基礎資訊  Basic Info <br>
 版本號 | Version Number：v_0.0.0 <br>
